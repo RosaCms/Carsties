@@ -6,14 +6,10 @@ d:\Projects\Carsties\src\AuctionService\bin\Debug\net9.0\AuctionService.deps.jso
 d:\Projects\Carsties\src\AuctionService\bin\Debug\net9.0\AuctionService.runtimeconfig.json
 d:\Projects\Carsties\src\AuctionService\bin\Debug\net9.0\AuctionService.dll
 d:\Projects\Carsties\src\AuctionService\bin\Debug\net9.0\AuctionService.pdb
-d:\Projects\Carsties\src\AuctionService\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-d:\Projects\Carsties\src\AuctionService\bin\Debug\net9.0\Microsoft.OpenApi.dll
-d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.csproj.AssemblyReference.cache
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.GeneratedMSBuildEditorConfig.editorconfig
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.AssemblyInfoInputs.cache
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.AssemblyInfo.cs
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.csproj.CoreCompileInputs.cache
-d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.MvcApplicationPartsAssemblyInfo.cs
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.MvcApplicationPartsAssemblyInfo.cache
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.sourcelink.json
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\scopedcss\bundle\AuctionService.styles.css
@@ -26,7 +22,6 @@ d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\staticwebassets\msbuild
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AuctionService.props
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AuctionService.props
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\staticwebassets.pack.json
-d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionS.72D7E915.Up2Date
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.dll
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\refint\AuctionService.dll
 d:\Projects\Carsties\src\AuctionService\obj\Debug\net9.0\AuctionService.pdb
